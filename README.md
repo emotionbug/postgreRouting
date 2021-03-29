@@ -1,3 +1,5 @@
+해당 Repository는 학부생 시절 작성한 자료입니다. 더 이상 업데이트 되지 않습니다.
+
 # Shortest Path on PostgreSQL
 
 기본 아이디어는 FEM Framework를 확장합니다.
